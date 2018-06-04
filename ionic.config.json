@@ -1,6 +1,6 @@
 {
   "name": "uno",
-  "app_id": "",
+  "app_id": "6bfa6073",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
